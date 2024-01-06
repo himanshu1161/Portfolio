@@ -1,0 +1,63 @@
+export const projects = [
+  {
+    title: 'Youtube Clone',
+    description: "Step into the world of captivating videos with our React JS-based YouTube clone. Dive into a familiar interface, seamless video playback, and interactive features. Discover a platform where entertainment meets innovation, offering a delightful browsing experience that mirrors the popular video-sharing website.",
+      image: '/images/3.png',
+      tags: ['React'],
+    source: 'https://google.com',
+    visit: 'https://youtube116.netlify.app',
+    id: 0,
+  },
+  {
+    title: 'SEO Report',
+    description: "Elevate your online presence with our specialized SEO report website. Uncover the hidden potential of your digital assets as we provide in-depth analyses of your website's performance. From keyword optimization to backlink strategy, our comprehensive reports offer actionable insights tailored to enhance your search engine rankings.",
+      image: '/images/5.png',
+      tags: ['React','Tailwind'],
+    source: 'https://google.com',
+    visit: 'https://seoreport116.netlify.app/',
+    id: 1,
+  },
+  {
+    title: 'Nike',
+    description: "Step into the world of performance and style with our Nike Landing Page website project. Immerse yourself in the dynamic fusion of innovation and athleticism as you explore the latest in Nike's cutting-edge products and collections. Our meticulously designed landing page not only showcases the iconic Nike brand but also delivers an immersive user experience.",
+      image: '/images/6.png',
+      tags: ['React', 'Tailwind'],
+    source: 'https://google.com',
+    visit: 'https://nike116.netlify.app/',
+    id: 2,
+  },
+  {
+    title: 'Lyriks',
+    description: "Explore a melody-filled world with our music website built on React and Redux. Unleash the power of seamless navigation, cutting-edge JavaScript, and integrated Stripe for smooth transactions. With this unique and impressive web application, you'll have an exceptional addition to your portfolio that music enthusiasts will love.",
+      image: '/images/1.png',
+      tags: ['React', 'Redux', 'Shazam'],
+    source: 'https://lyrics116.netlify.app',
+    visit: 'https://lyrics116.netlify.app',
+    id: 3,
+  },
+  {
+    title: 'Gym Exercises',
+    description:"Elevate your fitness journey with our React JS-powered gym website. Experience a user-friendly interface, dynamic features, and interactive workout tools. Get ready to sculpt your body and achieve your fitness goals while enjoying a seamless and engaging digital experience.",
+    image: '/images/2.png',
+    tags: ['React', 'JavaScript'],
+    source: 'https://google.com',
+    visit: 'https://gymexercise116.netlify.app',
+    id: 4,
+  },
+  {
+    title: 'Property4U',
+    description: "Explore the perfect property with our MERN stack-powered website. Discover a seamless browsing experience backed by MongoDB, Express, React, and Node.js. Find your dream home or investment opportunity with ease as you navigate through our user-friendly interface and comprehensive property listings.",
+    image: '/images/4.png',
+    tags: ['MERN'],
+    source: 'https://google.com',
+    visit: 'https://google.com',
+    id: 5,
+  },
+];
+
+export const TimeLineData = [
+  { year: 2018, text: 'Xth - Cosmos School', },
+  { year: 2020, text: 'XIIth - Cosmos School', },
+  { year: 2023, text: 'BCA - Manav Rachna University', },
+  { year: "2023-2025", text: 'MCA - Manav Rachna University', },
+];
